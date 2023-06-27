@@ -11,12 +11,16 @@ public class Main {
 
         System.out.println("Thầy Đại chào các thanh niên");
         System.out.println("Thắng chào các thanh nin nhé");
+<<<<<<< HEAD
+=======
+        System.out.println("Chào tất cả các thanh niên nha");
+>>>>>>> 529311dd2ef20665bad7158539860c39840e5bf0
         System.out.println("Nam Hà Nội đêm mưa rả rích!!! chào all");
         System.out.println("Thầy Đại chào các thanh niên một lần nữa");
         System.out.println("Thầy Đại chào các thanh niên lần thứ 3");
+        System.out.println("Hello day la Tan");
         System.out.println(" <==================== Thầy Lâm chào các thanh niên lần thứ 3 ====================> ");
         System.out.println("anh Quan");
-
         System.out.println("Ngannt đã ở đây ");
         System.out.println("Chuyên gia Rikkei Soft Lê Thế Anh Chào các thanh niên");
         System.out.println("Chuyên gia Rikkei Soft Lê Thế Anh Chào các thanh niên");
@@ -24,5 +28,8 @@ public class Main {
         System.out.println("chao cac doong dam");
         System.out.println("hung hi hi ");
         System.out.println("bán nhà tây hồ 1000 m2 view hồ tây 100 tỷ");
+        System.out.println("Thắng đã mua nha");
+        System.out.println("quang tuan chao anh em");
+
     }
 }
