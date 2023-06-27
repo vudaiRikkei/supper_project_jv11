@@ -9,5 +9,6 @@ public class Main {
         System.out.println("Ngannt đã ở đây ");
         System.out.println("Chuyên gia Rikkei Soft Lê Thế Anh Chào các thanh niên");
         System.out.println("Chuyên gia Rikkei Soft Lê Thế Anh Chào các thanh niên");
+        System.out.println("hieu hoa ok nhé ae");
     }
 }
