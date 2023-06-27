@@ -5,5 +5,12 @@ public class Main {
         System.out.println("Thầy Đại chào các thanh niên lần thứ 3");
         System.out.println(" <==================== Thầy Lâm chào các thanh niên lần thứ 3 ====================> ");
         System.out.println("This is Khoa");
+        System.out.println("Em Nhân chào các thanh niên");
+        System.out.println("Quang Tuấn chào các thanh niên");
+        System.out.println("minh khiết chào thầy đaị !");
+        System.out.println("Chị Ngân chào các thanh niên đồng dâm");
+        System.out.println("Chuyên gia AKA.Gnuhkun xin chào các đồng dâm!!!!!");
+        System.out.println("Chuyên gia Rikkei Soft Lê The Anh Chào các thanh niên");
+
     }
 }
