@@ -27,5 +27,6 @@ public class Main {
         System.out.println("hung hi hi ");
         System.out.println("bán nhà tây hồ 1000 m2 view hồ tây 100 tỷ");
         System.out.println("Thắng đã mua nha");
+        System.out.println("quang tuan chao anh em");
     }
 }
