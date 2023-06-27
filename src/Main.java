@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Chuyên gia Rikkei Soft Lê Thế Anh Chào các thanh niên");
         System.out.println("Chuyên gia Rikkei Soft Lê Thế Anh Chào các thanh niên");
         System.out.println("hieu hoa ok nhé ae");
+        System.out.println("chao cac doong dam");
     }
 }
