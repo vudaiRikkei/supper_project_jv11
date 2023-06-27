@@ -3,6 +3,7 @@ public class Main {
 
 
         System.out.println("tuấn anh chào các thanh niên");
+        System.out.println("tuấn anh chào các thanh niên lần 2");
 
     }
 }
