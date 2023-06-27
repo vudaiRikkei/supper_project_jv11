@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Thầy Đại chào các thanh niên");
         System.out.println("Em Nhân chào các thanh niên");
         System.out.println("Nam Hà Nội đêm mưa rả rích!!!");
+        System.out.println("luong son chao ae");
     }
 }
