@@ -30,5 +30,6 @@ public class Main {
         System.out.println("quang tuan chao anh em");
         System.out.println("rể Thanh Hoá chao anh em");
 
+        System.out.println("luong son chao ae");
     }
 }
