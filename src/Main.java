@@ -4,13 +4,15 @@ public class Main {
         System.out.println("Thầy Đại chào các thanh niên một lần nữa");
         System.out.println("Thầy Đại chào các thanh niên lần thứ 3");
         System.out.println(" <==================== Thầy Lâm chào các thanh niên lần thứ 3 ====================> ");
-        System.out.println("This is Khoa");
-        System.out.println("Em Nhân chào các thanh niên");
-        System.out.println("Quang Tuấn chào các thanh niên");
-        System.out.println("minh khiết chào thầy đaị !");
-        System.out.println("Chị Ngân chào các thanh niên đồng dâm");
-        System.out.println("Chuyên gia AKA.Gnuhkun xin chào các đồng dâm!!!!!");
-        System.out.println("Chuyên gia Rikkei Soft Lê The Anh Chào các thanh niên");
+<<<<<<< HEAD
+        System.out.println("Thầy Quang chào các thanh niên java11 lần 1!");
+        System.out.println("Thầy Quang chào các thanh niên java11 lần 2!");
+=======
+        System.out.println("anh Quan");
+>>>>>>> 0caab6d1c3c42ace53f8946fe596b8455789d310
 
+        System.out.println("Ngannt đã ở đây ");
+        System.out.println("hieu hoa ok nhé ae");
+        System.out.println("hung hi hi ");
     }
 }
