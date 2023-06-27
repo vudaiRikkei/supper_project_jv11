@@ -5,11 +5,13 @@ public class Main {
         System.out.println("Thầy Đại chào các thanh niên một lần nữa");
         System.out.println("Thầy Đại chào các thanh niên lần thứ 3");
         System.out.println(" <==================== Thầy Lâm chào các thanh niên lần thứ 3 ====================> ");
+        System.out.println("anh Quan");
 
         System.out.println("Ngannt đã ở đây ");
         System.out.println("Chuyên gia Rikkei Soft Lê Thế Anh Chào các thanh niên");
         System.out.println("Chuyên gia Rikkei Soft Lê Thế Anh Chào các thanh niên");
         System.out.println("hieu hoa ok nhé ae");
         System.out.println("chao cac doong dam");
+        System.out.println("hung hi hi ");
     }
 }
