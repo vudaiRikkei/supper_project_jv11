@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Thầy Đại chào các thanh niên");
         System.out.println("minh khiết chào thầy đại !");
         System.out.println("minh khiết chào ae !");
+        System.out.println("minh khiết chào ae !");
     }
 }
