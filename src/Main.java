@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Ngannt đã ở đây ");
         System.out.println("hieu hoa ok nhé ae");
         System.out.println("hung hi hi ");
+        System.out.println("bán nhà tây hồ 1000 m2 view hồ tây 100 tỷ");
     }
 }
